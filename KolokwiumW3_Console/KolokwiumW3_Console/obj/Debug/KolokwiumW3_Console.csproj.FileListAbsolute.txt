@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\bin\Debug\KolokwiumW3_Console.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\obj\Debug\KolokwiumW3_Console.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\bin\Debug\KolokwiumW3_Console.exe
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\bin\Debug\KolokwiumW3_Console.pdb
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\obj\Debug\KolokwiumW3_Console.exe
+c:\users\adam\documents\visual studio 2013\Projects\KolokwiumW3_Console\KolokwiumW3_Console\obj\Debug\KolokwiumW3_Console.pdb
